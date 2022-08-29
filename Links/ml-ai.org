@@ -1,0 +1,44 @@
+* Deep Learning With Python
+(many many recos for this one)
+https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/ref=mp_s_a_1_1?crid=2DBBI4YR4PVUZ&keywords=deep+learning+with+python&qid=1661789108&sprefix=deep+learning+%2Caps%2C404&sr=8-1
+* Fast AI
+ (very highly rated)
+ http://course.fast.ai
+ https://github.com/fastai/fastbook
+* deeplearning.ai
+ https://www.deeplearning.ai/
+* Probabilistic Machine Learning
+ https://probml.github.io/pml-book/book1.html
+* Machine Learning with PyTorch and Scikit-Learn
+ https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312
+* Machine Learning Mastery
+ https://machinelearningmastery.com/
+* AppliedAICourse (paid)
+ https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course
+* Courses from Harvard, Stanford
+Courses:
+
+CS109 2015 Harvard - http://cs109.github.io/2015/pages/videos.html
+
+CS229 https://cs229.stanford.edu/
+
+CS224n NLP http://web.stanford.edu/class/cs224n/
+
+CS231n CV all Stanford - http://cs231n.stanford.edu/
+
+CS329s MLOps and System Desgn - https://stanford-cs329s.github.io/
+* Andrew NGs intro to ML (coursera)
+* StatQuest
+https://statquest.org/
+* People to follow
+#+BEGIN_EXAMPLE
+@jeffheaton
+@rasbt
+@NirantK
+@Adi_kmt
+@_sandeeppainuly
+@mudittiwari255
+@serious_mehta
+#+END_EXAMPLE
+* Naina Chaturvedi on medium
+https://medium.com/coders-mojo/day-1-day-60-quick-recap-of-60-days-of-data-science-and-ml-6fc021643d1
